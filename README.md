@@ -1,10 +1,9 @@
-# Packman Game
+# Pacman Game
 
-This is a packman game.
-If you want to play, click on the URL below.
+To enter the game please click on the link below.
 For quick login, use default username and password: "k"
 
-https://amityosefi.github.io/packman-game/
+https://web-development-environments-2021.github.io/Assignment2_208472001_311277438/
 
 # Login
 
